@@ -1,0 +1,197 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: SAG-PM generated SBOM
+DocumentNamespace: dns:softwareassuranceguardian.com
+Creator: Organization: dns:reliableenergyanalytics.com
+Creator: Tool: SAG-PM Version: 1.1.3DEV
+Created: 2021-08-18T22:51:11Z
+PackageName: App-BOM-ination.jar
+PackageVersion: 1.0.0
+SPDXID: SPDXRef-Package-c290cf67-b3b1-42f8-bfb2-6f2e82f57d0a
+PackageSupplier: Organization: yevster
+PackageDownloadLocation: https://github.com/act-project/App-BOM-ination/releases/download/1.0/App-BOM-ination.zip/App-BOM-ination.zip
+FilesAnalyzed: true
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageVerificationCode: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+PackageChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseID: LicenseRef-Unlicense
+LicenseName: Unlicense
+FileName: activemq-broker-5.8.0.jar
+SPDXID: SPDXRef-83657019-4a10-46da-86a5-a664ca2fe8ae
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: activemq-openwire-legacy-5.8.0.jar
+SPDXID: SPDXRef-2339939c-9882-46e4-b101-678d246c36d7
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: activemq-client-5.8.0.jar
+SPDXID: SPDXRef-318a3294-a391-49a8-8044-8876892b3034
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: slf4j-api-1.7.21.jar
+SPDXID: SPDXRef-4c4dff74-4c7c-46c4-bfc7-ddc2f542ff84
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: commons-lang3-3.4.jar
+SPDXID: SPDXRef-997c8e32-0eac-4f3a-8cdf-f9ab282bb63e
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: struts2-core-2.1.6.jar
+SPDXID: SPDXRef-a4a612bf-3d52-4845-a42a-c4e429738fc6
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: mysql-connector-java-8.0.11.jar
+SPDXID: SPDXRef-f2ccab56-b43b-46b2-a839-c0a4bd4124d2
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hibernate-validator-5.2.0.Final.jar
+SPDXID: SPDXRef-b073795f-0a37-4043-87df-66af5bf97376
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: xwork-2.1.2.jar
+SPDXID: SPDXRef-6095c015-9306-4931-b4ba-8b29474a4437
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: freemarker-2.3.13.jar
+SPDXID: SPDXRef-b503f852-f27b-4c0a-9a95-c651c5a2fa62
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ognl-2.6.11.jar
+SPDXID: SPDXRef-6153e0ed-779b-44a8-af3b-dbb0b2ff1a52
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: commons-fileupload-1.2.1.jar
+SPDXID: SPDXRef-45a5091c-19f8-4bc6-8870-497902434f19
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: commons-io-1.3.2.jar
+SPDXID: SPDXRef-583ed179-da5c-4ae4-8e5c-9e4bd075b102
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: protobuf-java-2.6.0.jar
+SPDXID: SPDXRef-ed680029-e7f4-46b7-b753-ce86cb48a491
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: validation-api-1.1.0.Final.jar
+SPDXID: SPDXRef-5708a4a6-fd34-45b6-933b-a3375aa288eb
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jboss-logging-3.2.1.Final.jar
+SPDXID: SPDXRef-ac06555c-d6c5-4e5a-a0a3-af97cf22d958
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: classmate-1.1.0.jar
+SPDXID: SPDXRef-c74d5971-0666-4257-b622-d23f2cc468ca
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: spring-test-2.5.6.jar
+SPDXID: SPDXRef-2ab57c7b-b984-4e06-8372-bca4790c04f1
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: geronimo-jms_1.1_spec-1.1.1.jar
+SPDXID: SPDXRef-dac433a5-6b8c-4331-9c45-a88991d367b9
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hawtbuf-1.9.jar
+SPDXID: SPDXRef-7ea4edf8-4531-42f8-bfa1-c061b8720e58
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: geronimo-j2ee-management_1.1_spec-1.0.1.jar
+SPDXID: SPDXRef-e93cc753-9888-4ace-a380-c2bb09f1dcb2
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: commons-logging-1.1.1.jar
+SPDXID: SPDXRef-a05f9c08-4ee1-46c1-ba6f-28733ff0f914
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: junit-3.8.1.jar
+SPDXID: SPDXRef-506dd0e0-2daa-4839-b0f1-617d4fe4dfe8
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: App-BOM-ination
+SPDXID: SPDXRef-bf928f37-83e1-416b-bf89-35ffc9dcbf41
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: App-BOM-ination.bat
+SPDXID: SPDXRef-15cfa7d8-f46d-4b5b-812a-e59683ad3e3c
+FileType: BINARY
+FileChecksum: SHA1: C473018AAF2B8C5C45F7F8A035F0FF571A69EABA
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
