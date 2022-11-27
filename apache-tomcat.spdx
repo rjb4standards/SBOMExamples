@@ -1,0 +1,5086 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: SAG-PM generated SBOM
+DocumentNamespace: dns:softwareassuranceguardian.com
+Creator: Organization: dns:reliableenergyanalytics.com
+Creator: Tool: SAG-PM Version: 1.2
+Created: 2022-11-26T18:45:28Z
+PackageName: apache-tomcat-9.0.69.zip
+PackageVersion: 9.0.69
+SPDXID: SPDXRef-Package-fc4a1bf0-78a0-43ca-b4a9-78adfb42138c
+PackageSupplier: Organization: Apache Foundation
+PackageDownloadLocation: https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.69/bin/apache-tomcat-9.0.69.zip/
+FilesAnalyzed: true
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageVerificationCode: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+PackageChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseID: LicenseRef-Unlicense
+LicenseName: Unlicense
+FileName: BUILDING.txt
+SPDXID: SPDXRef-87918aee-0dbb-4763-bf0e-817d9b895bd1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CONTRIBUTING.md
+SPDXID: SPDXRef-14a3b963-0e7d-43ff-8f91-cb015056d911
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LICENSE
+SPDXID: SPDXRef-2f4f8182-8d4b-48be-8b9a-dcc51f8084aa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: NOTICE
+SPDXID: SPDXRef-11c891e4-2cfd-4d66-ae44-e1bcc29aeb2e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: README.md
+SPDXID: SPDXRef-6ed77406-4387-4aed-aec4-3fcedca59771
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RELEASE-NOTES
+SPDXID: SPDXRef-c50344a8-ee40-4d28-be37-dc5beffaded4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RUNNING.txt
+SPDXID: SPDXRef-13422bed-0ada-45d4-81c7-26758b8306f7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: bootstrap.jar
+SPDXID: SPDXRef-69461012-f758-4d27-8a4d-b8e589d92ad1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina-tasks.xml
+SPDXID: SPDXRef-7f0304a1-dbec-4f6d-a5b8-03f365219562
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina.bat
+SPDXID: SPDXRef-7e49c384-72e6-47aa-b3da-2f681e5f6863
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina.sh
+SPDXID: SPDXRef-72939b38-0b86-48a3-ba97-72e8fb96db95
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ciphers.bat
+SPDXID: SPDXRef-7c4e573c-5925-4be4-8932-a702beec0173
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ciphers.sh
+SPDXID: SPDXRef-a2a878de-7abc-47d3-a88e-c056b0d9ade0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: commons-daemon-native.tar.gz
+SPDXID: SPDXRef-55050c8b-0fb1-44c8-92ca-9ded28cec72a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: commons-daemon.jar
+SPDXID: SPDXRef-6d210fec-f3f9-4613-a8e3-de215f1d5d8b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: configtest.bat
+SPDXID: SPDXRef-193be0ee-4c1b-45bc-b803-b3a71bce3f21
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: configtest.sh
+SPDXID: SPDXRef-741fe3cc-c124-4167-9289-3e310cb7dae6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: daemon.sh
+SPDXID: SPDXRef-8c0e4331-8cb6-44f0-95e4-907133156684
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: digest.bat
+SPDXID: SPDXRef-9662fea8-ef3d-4aa6-a05f-1a38f3e8f61d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: digest.sh
+SPDXID: SPDXRef-a2f552f2-1ee7-46ba-a6ef-23cadf9e2147
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: makebase.bat
+SPDXID: SPDXRef-364fd400-e90f-4f47-a162-2918085c92fa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: makebase.sh
+SPDXID: SPDXRef-423829c9-7f7d-4480-a31b-fa2fbe4a07a2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: setclasspath.bat
+SPDXID: SPDXRef-9e770976-a94a-43f3-adca-ee797b04ac40
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: setclasspath.sh
+SPDXID: SPDXRef-cef1cdf5-b47c-4050-aa8f-10c064314482
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: shutdown.bat
+SPDXID: SPDXRef-5642a020-fded-4756-8af7-5214d03c4696
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: shutdown.sh
+SPDXID: SPDXRef-c264c59f-6221-4b05-b30a-74be742c9c43
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: startup.bat
+SPDXID: SPDXRef-4f6be626-bb84-4210-a6b2-8e96d25f41d2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: startup.sh
+SPDXID: SPDXRef-ddf2b2cc-cd8d-4324-8149-1e0086fc305b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-juli.jar
+SPDXID: SPDXRef-6d9f4f27-09b4-47d4-9d29-5cd9059392bb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-native.tar.gz
+SPDXID: SPDXRef-6e201122-31db-40d6-a28b-9ca7401309ba
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tool-wrapper.bat
+SPDXID: SPDXRef-e53137ce-5820-4880-b35e-95e7b0132ac3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tool-wrapper.sh
+SPDXID: SPDXRef-d430f7a3-efaf-4a99-b65b-6f53d35411c6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: version.bat
+SPDXID: SPDXRef-afbe0acf-d4fe-4824-8863-fb333454680e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: version.sh
+SPDXID: SPDXRef-970a14a4-f3b4-472c-8ea7-d3b8d0b36192
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina.policy
+SPDXID: SPDXRef-4f80b65b-8cf9-4fdc-b34e-8061ede04c06
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina.properties
+SPDXID: SPDXRef-46255f14-0544-47c1-945d-a84bc80bd65f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: context.xml
+SPDXID: SPDXRef-3dacb2cc-45bb-4182-910e-d522930ff479
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jaspic-providers.xml
+SPDXID: SPDXRef-e2a909a5-9ce2-4d3c-a59d-21462d6d06ff
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jaspic-providers.xsd
+SPDXID: SPDXRef-ddc33903-ec09-40b4-8188-6f2129fdcbbe
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: logging.properties
+SPDXID: SPDXRef-84b90d3e-5906-4d5c-ba84-a8258c378e8c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: server.xml
+SPDXID: SPDXRef-9f1239f3-c08c-4954-8ce6-cbff6da816cf
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-users.xml
+SPDXID: SPDXRef-60d60d1c-c63a-4182-95b7-9b26413df438
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-users.xsd
+SPDXID: SPDXRef-ceaa9681-eecd-4bdb-b292-5b9045fc8dd9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web.xml
+SPDXID: SPDXRef-40a49c1a-bcce-4621-b7ad-203ea61f387a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: annotations-api.jar
+SPDXID: SPDXRef-0d93f3f1-57cf-46c8-8e07-2ec912f97059
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina-ant.jar
+SPDXID: SPDXRef-50776ad4-531d-42ce-b5ab-b391f091a409
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina-ha.jar
+SPDXID: SPDXRef-b60264af-c0a5-484e-a3a9-075f62c4c435
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina-ssi.jar
+SPDXID: SPDXRef-687129cf-826e-4aaf-a615-bddd842333ac
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina-storeconfig.jar
+SPDXID: SPDXRef-718f44b3-cc09-434a-bb9d-092955cb1fa8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina-tribes.jar
+SPDXID: SPDXRef-157b8d8d-2044-47fe-8116-dadb6e9b5190
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: catalina.jar
+SPDXID: SPDXRef-dcf4bcd5-c9c4-4a04-8e26-5ebeb7a71e11
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ecj-4.20.jar
+SPDXID: SPDXRef-d896aa3c-7e16-44b6-8737-3ef20af330b7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: el-api.jar
+SPDXID: SPDXRef-031745a7-b063-45c9-af05-297292d473b6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jasper-el.jar
+SPDXID: SPDXRef-2d5efab4-ee45-4666-bf05-1e1f5f7508fd
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jasper.jar
+SPDXID: SPDXRef-1ea751c7-4924-4a01-9f41-9f6e7d4124a1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jaspic-api.jar
+SPDXID: SPDXRef-27b73d9e-b472-4b3c-8d78-23aa164b1ee6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jsp-api.jar
+SPDXID: SPDXRef-45c5061b-b0ba-4fc9-86d9-e945a240ada7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: servlet-api.jar
+SPDXID: SPDXRef-bea22507-54a2-4cd7-a12d-362dc589b608
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-api.jar
+SPDXID: SPDXRef-24d1d3ae-2d7e-4d05-b6ca-0d27ba68ca58
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-coyote.jar
+SPDXID: SPDXRef-9a40f39d-560f-4b47-8cab-9032432fcc9a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-dbcp.jar
+SPDXID: SPDXRef-6f596d52-1421-4bae-9e42-4854fedbace8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-cs.jar
+SPDXID: SPDXRef-27f222a0-a855-4fb1-90fa-f06750699a79
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-de.jar
+SPDXID: SPDXRef-ad873fe0-ed35-494a-8ed1-7a5e4884e0da
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-es.jar
+SPDXID: SPDXRef-009337d7-48fb-4b89-b93c-e6f4bbdac3d5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-fr.jar
+SPDXID: SPDXRef-3762a5cc-06b3-45ff-a343-e18ccd5c4e56
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-ja.jar
+SPDXID: SPDXRef-f90b6e88-d31b-4c58-a4e0-70e956731071
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-ko.jar
+SPDXID: SPDXRef-eb9f6d48-ed23-4f25-8be8-72c8550c1763
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-pt-BR.jar
+SPDXID: SPDXRef-d6971a78-60ee-41c3-89d7-94d22bbd7504
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-ru.jar
+SPDXID: SPDXRef-3b4e7bf0-6953-4ff3-a0f5-9e72a11a86b0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-i18n-zh-CN.jar
+SPDXID: SPDXRef-44b3bf7c-0854-47ae-a773-ae8f7a04119d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-jdbc.jar
+SPDXID: SPDXRef-70671fa3-ae22-4d0d-9652-5ed1cdd1f2e7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-jni.jar
+SPDXID: SPDXRef-899599d6-d265-46d8-86fd-c782fbc06bca
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-util-scan.jar
+SPDXID: SPDXRef-16a73e29-4790-44e9-b5a9-c99c4f581a4a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-util.jar
+SPDXID: SPDXRef-f37ac06f-dc34-4a5a-b676-1a9537895e72
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat-websocket.jar
+SPDXID: SPDXRef-8c87ac13-23d4-4fee-a1b6-717822d0cd6a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: websocket-api.jar
+SPDXID: SPDXRef-238372a8-1679-431a-ac88-ca36ee502052
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: safeToDelete.tmp
+SPDXID: SPDXRef-97e8fadd-230b-4e6e-975d-6cee54e51a2c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RELEASE-NOTES.txt
+SPDXID: SPDXRef-32e86099-2706-4937-8547-1a0e33d0d38f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web.xml
+SPDXID: SPDXRef-a4edd2d7-8768-43ad-8ade-c69678c7dc95
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: asf-logo-wide.svg
+SPDXID: SPDXRef-e78fda73-2158-40ba-9461-1b33dc910079
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: bg-button.png
+SPDXID: SPDXRef-04c9203a-145f-46bb-9939-20b4eb9e69ec
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: bg-middle.png
+SPDXID: SPDXRef-bd4a608f-ecf5-42bf-a32c-20f77380845e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: bg-nav.png
+SPDXID: SPDXRef-6bed764d-6469-4d38-ab51-5af1a18ad6c1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: bg-upper.png
+SPDXID: SPDXRef-5cca8069-da5e-4072-99cc-386492501aa2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: favicon.ico
+SPDXID: SPDXRef-1cf89b74-d5cf-4579-b495-751884b04c50
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.jsp
+SPDXID: SPDXRef-62a6a119-c986-47a2-ba8e-2f861a874540
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat.css
+SPDXID: SPDXRef-f5aeb71e-87e1-4bd0-bec3-60eae8f314cf
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat.svg
+SPDXID: SPDXRef-e22f72f0-7bcd-4a4d-8ea3-0b2c99e5108c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: BUILDING.txt
+SPDXID: SPDXRef-d5a99169-098c-4ac3-a888-1add01d706a2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RELEASE-NOTES.txt
+SPDXID: SPDXRef-e8674fe3-2468-40ed-95e8-f095e01a1ca1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RUNNING.txt
+SPDXID: SPDXRef-bdd9fc63-f525-4ad0-b512-b7e528698b48
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web.xml
+SPDXID: SPDXRef-d3c69714-b146-4237-99ea-a7d826986070
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: aio.html
+SPDXID: SPDXRef-3d7541fc-4178-44e7-be8e-8e519362b7b9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-007d65ff-ec0f-4b31-b28c-5f4c091a52ea
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-97398523-2343-46b4-bbc2-44f391e4d04d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: build.xml.txt
+SPDXID: SPDXRef-aa4d09ca-1008-492d-a763-4aa7d54ddf11
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: deployment.html
+SPDXID: SPDXRef-0046f973-1d00-41f1-98c5-db25f2d16b6e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-a226427c-d866-4bb3-b1f1-e374c1cdbae9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: installation.html
+SPDXID: SPDXRef-3c1eccff-3cbe-4637-948d-2ff8d3bedec1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: introduction.html
+SPDXID: SPDXRef-83824dfa-1fbf-44b5-a8a9-92b21ae8bd81
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: processes.html
+SPDXID: SPDXRef-b6eca770-c710-4ecc-a377-921116f51047
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: build.xml
+SPDXID: SPDXRef-7d8b9f04-dd9d-492c-a3ee-3582f2be1125
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: README.txt
+SPDXID: SPDXRef-fff09b3e-724a-4449-b334-fecd4da6170b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-abc3702e-33b7-43e1-bf17-536c873c95e5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: sample.war
+SPDXID: SPDXRef-28e78fd3-fbdd-4f14-af4f-d72d1646ae46
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Hello.java
+SPDXID: SPDXRef-165b06e3-d192-4539-8830-3e6bfa90e8f0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web.xml
+SPDXID: SPDXRef-43d14e8a-258b-4f3e-84d5-0a75ae563df2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.jsp
+SPDXID: SPDXRef-729620d6-a2b9-40d3-b5b8-8e4c465ed823
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat.gif
+SPDXID: SPDXRef-d5c81c21-38b1-4529-83b7-31b6b58232ec
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-ba121c2f-c073-47fc-ae8f-399281479127
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: source.html
+SPDXID: SPDXRef-41ba4e8e-3f15-44b0-ab11-47a43cdfd673
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web.xml.txt
+SPDXID: SPDXRef-6c1a52a2-b29b-4556-8814-c2e33c5a8b21
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: apr.html
+SPDXID: SPDXRef-d7eae609-e7c9-4874-b4a1-231d7a737331
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-d7331dbb-8eae-4b61-8350-31c4b26c0746
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: overview.html
+SPDXID: SPDXRef-0088daa8-306d-41d0-ae27-8b51fd58a28f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: requestProcess.html
+SPDXID: SPDXRef-6eaeed2e-9cce-489a-8d29-5f97b93e9efa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: authentication-process.png
+SPDXID: SPDXRef-b3d14c39-a8bf-4034-8349-44d9b69e3058
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: request-process.png
+SPDXID: SPDXRef-5ba0301a-1bd8-43b5-b601-a62e9c0202c2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: startup.html
+SPDXID: SPDXRef-055cf6da-5593-44fd-a8e1-5deeb4e0eaff
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: serverStartup.pdf
+SPDXID: SPDXRef-ceda511d-ca0e-4362-a520-e0cd3fc43e96
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: serverStartup.txt
+SPDXID: SPDXRef-189ee38d-4095-43aa-b7f3-d53242835dd3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: balancer-howto.html
+SPDXID: SPDXRef-14d66a2a-7a3d-49c0-8112-c7b089dd4d89
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: building.html
+SPDXID: SPDXRef-9bf1c583-7ff2-4ab8-95a1-8a06db39410d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cdi.html
+SPDXID: SPDXRef-961b155b-f56d-4000-95cb-92bb8d1a09ba
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cgi-howto.html
+SPDXID: SPDXRef-6c1bd57c-6a5b-47ae-8064-e9fe89a5168c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: changelog.html
+SPDXID: SPDXRef-bb1fa93d-4929-44b1-8d16-f1f26e99d87f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: class-loader-howto.html
+SPDXID: SPDXRef-1e161c2d-9e8b-4ceb-8e09-acc739c751fc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-howto.html
+SPDXID: SPDXRef-5d52c4fe-edc5-4dc4-9610-939bfbbae3a3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: comments.html
+SPDXID: SPDXRef-5a0b984d-085f-47ec-b514-4ba53ebc7dfd
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ajp.html
+SPDXID: SPDXRef-dabffc5c-e733-417d-b9e5-e7578afb795c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: automatic-deployment.html
+SPDXID: SPDXRef-71323c43-d8eb-4837-8f20-4977f10acd09
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-channel.html
+SPDXID: SPDXRef-275b504a-98aa-400b-8a8a-615976c30fd5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-deployer.html
+SPDXID: SPDXRef-c2ad167f-41df-4e1d-8074-9ff26f976b06
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-interceptor.html
+SPDXID: SPDXRef-3f655b55-64a6-4882-8b1a-5c8874821089
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-listener.html
+SPDXID: SPDXRef-5007742a-a642-4db0-843b-0a2c55fe47d4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-manager.html
+SPDXID: SPDXRef-1dab0fc1-ec05-4272-9b3e-501f60a76a81
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-membership.html
+SPDXID: SPDXRef-b068f7a3-d185-4816-b55f-a078c32d1ff5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-receiver.html
+SPDXID: SPDXRef-b8261cfb-3ef9-4895-b9da-e4834792f927
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-sender.html
+SPDXID: SPDXRef-ac06d85f-7f75-4492-8554-e87793e8004a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster-valve.html
+SPDXID: SPDXRef-5b43a65f-6929-46ef-ab0b-bc42fa3f02f2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cluster.html
+SPDXID: SPDXRef-c0ee63b9-6299-41b5-9fb6-ca14c6b8106f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: context.html
+SPDXID: SPDXRef-0f24f2ec-0ee6-4446-962a-85eae92445a0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cookie-processor.html
+SPDXID: SPDXRef-5b44a5c9-1999-4f7c-9978-cb41ddf5b536
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: credentialhandler.html
+SPDXID: SPDXRef-1ec9cf8e-bd87-4bb6-97ff-a7f8179547ca
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: engine.html
+SPDXID: SPDXRef-19a885ff-0d98-45ef-a632-4919f3ab41ba
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: executor.html
+SPDXID: SPDXRef-0001df28-ae87-4588-9113-02df6dcb000b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: filter.html
+SPDXID: SPDXRef-6cc88952-71bb-43bc-b0cc-7c5e67eff108
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: globalresources.html
+SPDXID: SPDXRef-e0c24b1f-c56a-4e8f-8101-440d15b8bb7b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: host.html
+SPDXID: SPDXRef-b1bc7c33-3e78-4ba9-94a8-9d084f0313cb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: http.html
+SPDXID: SPDXRef-40fa31c3-fc70-4007-bf3c-860e6c3f2022
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: http2.html
+SPDXID: SPDXRef-5328b95a-de62-4f5a-8733-7058ffdf3b7a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-1ada61ec-0ace-46ae-ac86-3c66eec4c4a5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jar-scan-filter.html
+SPDXID: SPDXRef-dd3cc03a-3254-4507-950d-eecd587ef37f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jar-scanner.html
+SPDXID: SPDXRef-c6cc4495-5f0b-4ea5-9acc-d5acf578476d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jaspic.html
+SPDXID: SPDXRef-cd12bb92-1afb-4ec0-aca2-e6cf6f3b0436
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: listeners.html
+SPDXID: SPDXRef-abdc6a66-ffe6-498c-8e1d-ae5492875868
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: loader.html
+SPDXID: SPDXRef-9e13c3aa-bab9-42c4-b7df-934a9e315e51
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: manager.html
+SPDXID: SPDXRef-549fefd7-43ca-46e5-8aca-0ce4e971504b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: realm.html
+SPDXID: SPDXRef-cc055fe8-717f-40ec-a045-3a5eb9228ca9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: resources.html
+SPDXID: SPDXRef-3409f96f-02e9-4e13-bc69-0a1297932a56
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: server.html
+SPDXID: SPDXRef-65675271-740c-4584-9058-6ba9383ef0a8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: service.html
+SPDXID: SPDXRef-f1de3629-90ed-4a8a-bfc3-485847cf60fe
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: sessionidgenerator.html
+SPDXID: SPDXRef-8fc16052-a146-4b3e-82b3-dcf85f51a40e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: systemprops.html
+SPDXID: SPDXRef-8d0663a8-9776-43a9-b66c-13d90dd43640
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: valve.html
+SPDXID: SPDXRef-f2076a31-1bb3-4d66-a6e7-8f5bf2cdc765
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: connectors.html
+SPDXID: SPDXRef-94669ec9-4924-4bed-9057-784b59c9453b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: default-servlet.html
+SPDXID: SPDXRef-1ffba864-ec44-42a2-87a7-827da263e10c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: deployer-howto.html
+SPDXID: SPDXRef-1ae2ca59-2fe1-4c19-b41d-c346ca868660
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: developers.html
+SPDXID: SPDXRef-ef91e3a3-1d86-4d85-b97b-09a3dfdb1649
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-b30aaa2d-46c6-4340-9baf-0bf60dc804e6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: graal.html
+SPDXID: SPDXRef-e6504f74-db92-477f-8d33-73d65c93555c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: host-manager-howto.html
+SPDXID: SPDXRef-12be30ac-d2b9-4057-91bd-d4e07ac7aeea
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: html-host-manager-howto.html
+SPDXID: SPDXRef-891fbd11-98e4-42ba-a9f3-5c4bfc5f2231
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: html-manager-howto.html
+SPDXID: SPDXRef-584f0a91-c10e-4aab-a132-4bd417a51f98
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: add.gif
+SPDXID: SPDXRef-168ef88c-d551-41ad-bc62-3816db2b9344
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: asf-logo.svg
+SPDXID: SPDXRef-00bb8280-13b9-4bb9-b866-1492b4c7c1c8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: code.gif
+SPDXID: SPDXRef-da77e14e-b1f8-4c52-bdd1-0e3decdd3e69
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cors-flowchart.png
+SPDXID: SPDXRef-56b58abc-9d4f-441e-be91-319db127fa1d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: design.gif
+SPDXID: SPDXRef-c0ab2996-a677-425d-a154-b0ca794f49a3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: docs-stylesheet.css
+SPDXID: SPDXRef-6ebc96be-cf90-4294-aba6-57a9807243b5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: docs.gif
+SPDXID: SPDXRef-a4d14aa9-9c9c-494f-a9cb-b495616d0f14
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: fix.gif
+SPDXID: SPDXRef-0e647c77-890e-4916-a99a-b81671470968
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: OpenSans400.woff
+SPDXID: SPDXRef-874367db-833c-469c-b492-708e1b2481c7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: OpenSans400italic.woff
+SPDXID: SPDXRef-fd0d41bb-a2aa-4a71-bc58-de9454e0f02c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: OpenSans600.woff
+SPDXID: SPDXRef-0e399301-d746-45f8-80bd-755bd8e5d52e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: OpenSans600italic.woff
+SPDXID: SPDXRef-7803b756-452e-42ab-80bc-b70b3d139562
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: OpenSans700.woff
+SPDXID: SPDXRef-4c97fc6e-42dc-494e-847c-4cd3f70baf67
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: OpenSans700italic.woff
+SPDXID: SPDXRef-612116ae-7a5c-411d-ba70-d89ef9932e2f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: fonts.css
+SPDXID: SPDXRef-9561635b-3a76-409f-a630-29239d45c5cb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat.gif
+SPDXID: SPDXRef-0aa49b9d-8b12-4323-8fd5-9e9f6dba850a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat.png
+SPDXID: SPDXRef-a7a181dd-c69a-4820-8076-ad3b0cfcae36
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: update.gif
+SPDXID: SPDXRef-6a1a7353-cc8b-4d86-8ea7-8a955a98aa3f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: void.gif
+SPDXID: SPDXRef-f3df21be-f296-499e-8f59-ec91bae041de
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-5daceb78-3ce8-43a3-9e6b-d66339a20ad9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: introduction.html
+SPDXID: SPDXRef-55b15c53-a8fa-4ff4-a726-77b361bcb027
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jasper-howto.html
+SPDXID: SPDXRef-1bede11b-8870-42b2-9c88-3c4b34256ac1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-4dbd1fb4-a877-42c8-8945-a277fa984e6d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jdbc-pool.html
+SPDXID: SPDXRef-bb98950b-7762-43ff-92aa-54499249a80a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jndi-datasource-examples-howto.html
+SPDXID: SPDXRef-adc485a7-96ba-45a5-9152-37aa3625fe2b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jndi-resources-howto.html
+SPDXID: SPDXRef-1f061945-f3e4-46d5-bb8b-02a3959f7b2e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-945cc3f7-967b-409d-ab43-8a745c4ed006
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: logging.html
+SPDXID: SPDXRef-8451e29d-5ec6-4296-b5de-abebd1f75fce
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: manager-howto.html
+SPDXID: SPDXRef-6bc182cf-c475-4ff2-b06e-509424bd58cc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: maven-jars.html
+SPDXID: SPDXRef-4242019d-8120-4039-8cbb-8148d54ab222
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: mbeans-descriptors-howto.html
+SPDXID: SPDXRef-976ab72c-ed0d-470d-9280-51c570f31511
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: mbeans-descriptors.dtd
+SPDXID: SPDXRef-aa3006c1-a11b-4878-9622-cc7894493545
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: monitoring.html
+SPDXID: SPDXRef-0728385c-63a4-4b33-8cad-e6fd47a84542
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: proxy-howto.html
+SPDXID: SPDXRef-0592ea15-df85-4b1f-8caa-79803d3383b6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: realm-howto.html
+SPDXID: SPDXRef-e52be937-f8b5-4fc3-94a2-779ef7af594c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: rewrite.html
+SPDXID: SPDXRef-c8dd05cb-2b1d-409b-b260-89cf27fe4bba
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: security-howto.html
+SPDXID: SPDXRef-d07045f5-8325-4039-82af-fbb32a5f859a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: security-manager-howto.html
+SPDXID: SPDXRef-a53a80d7-8b54-416e-8279-17f65bd24410
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-da63824c-7c06-45b1-b86d-8414d40bcf54
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: setup.html
+SPDXID: SPDXRef-08e16cc5-6c0b-4563-9632-8231a5cee486
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ssi-howto.html
+SPDXID: SPDXRef-07e661fe-8841-42af-97ea-5664b2bce8f9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ssl-howto.html
+SPDXID: SPDXRef-5bbf4928-fb7d-4b01-ab33-82f1a7454c4f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: developers.html
+SPDXID: SPDXRef-9a9c7663-0cbc-4739-a7c4-6855a6d6b888
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: faq.html
+SPDXID: SPDXRef-7f77040b-a76d-4616-9747-863ecd2b9cb0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: interceptors.html
+SPDXID: SPDXRef-ef12d69c-d25d-4f51-b592-6aed9b6181c5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: introduction.html
+SPDXID: SPDXRef-87fee5da-10dc-47d3-b127-9d56138461bb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: membership.html
+SPDXID: SPDXRef-76a2d732-0495-40b0-8295-32a80d7d8b95
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: setup.html
+SPDXID: SPDXRef-3faf6fb2-e6f3-44cd-9b53-661786877d8f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: status.html
+SPDXID: SPDXRef-79b0b9e3-7c1e-4770-bfda-6f63bcdef852
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: transport.html
+SPDXID: SPDXRef-9163f05e-322b-4115-afed-b290203806aa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: virtual-hosting-howto.html
+SPDXID: SPDXRef-6fdd6205-4d75-4971-a682-be70c40cce22
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web-socket-howto.html
+SPDXID: SPDXRef-4760df38-317d-4f55-a2c5-78c0ac2cbc39
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-508f8106-ec98-4eef-b770-1b6a21d8da25
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: windows-auth-howto.html
+SPDXID: SPDXRef-65255168-2075-4a6e-b4b1-0c789829fbdf
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: windows-service-howto.html
+SPDXID: SPDXRef-b6662a3b-ca53-4700-8918-14a68c9085fa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: context.xml
+SPDXID: SPDXRef-785320a9-99f3-4c47-af7f-a10d48c7aaa0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CookieExample.class
+SPDXID: SPDXRef-95d8c738-8a36-4171-b134-92c43c3974a3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CookieExample.java
+SPDXID: SPDXRef-7d39663a-1dd4-4d02-8a91-7a0e93e5f273
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: HelloWorldExample.class
+SPDXID: SPDXRef-d695550c-2a38-4cde-ae19-0416166e8258
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: HelloWorldExample.java
+SPDXID: SPDXRef-005d8ce2-237e-46ec-a93d-1e65f98cc7a7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings.properties
+SPDXID: SPDXRef-15caab5b-2ea1-449d-b2b8-aa1bfe276ec7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_cs.properties
+SPDXID: SPDXRef-a3ef7a19-6202-499f-8f64-b8df3fd51707
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_de.properties
+SPDXID: SPDXRef-6ae7a6d3-047f-46c1-8f9f-6c49159ce19f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_es.properties
+SPDXID: SPDXRef-d10957da-13f1-4cc3-9932-f70eedadafc2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_fr.properties
+SPDXID: SPDXRef-e9679b74-9b63-4cf8-8065-e3f31e11bd73
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_ja.properties
+SPDXID: SPDXRef-74323c99-85c2-41cd-be61-ac21330a355e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_ko.properties
+SPDXID: SPDXRef-34498d20-e9eb-447f-9889-d0bba3f8198f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_pt.properties
+SPDXID: SPDXRef-5b77f1cc-fb26-4c1b-8ee8-69dc25365e26
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_pt_BR.properties
+SPDXID: SPDXRef-676a88b0-6aa9-4c4e-8aa3-63b50c229eeb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_ru.properties
+SPDXID: SPDXRef-5bf95a07-ef6f-4898-a477-ae6111fe7b22
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LocalStrings_zh_CN.properties
+SPDXID: SPDXRef-d5577eef-439c-455c-9847-1e4f27c12a08
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RequestHeaderExample.class
+SPDXID: SPDXRef-1faa2035-d77f-47db-82cf-2be5ba5904ce
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RequestHeaderExample.java
+SPDXID: SPDXRef-9565519e-3cfd-4dc4-b064-fda139f8a12d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RequestInfoExample.class
+SPDXID: SPDXRef-9dbe58c4-6a15-475b-aa69-aa8b703ca99a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RequestInfoExample.java
+SPDXID: SPDXRef-4c1dfb45-1348-4834-b413-d6efb7ab427f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RequestParamExample.class
+SPDXID: SPDXRef-965d4b9b-3b2c-41ee-a520-4ceb496de621
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RequestParamExample.java
+SPDXID: SPDXRef-5f5828b3-c187-491d-bf41-011aae2cd20a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ServletToJsp.class
+SPDXID: SPDXRef-420e5e51-7581-4b53-a833-0b2133376886
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ServletToJsp.java
+SPDXID: SPDXRef-9e274eba-5b83-4b3e-b591-bea2e835faa7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SessionExample.class
+SPDXID: SPDXRef-3bcee0cf-853b-48c9-8a05-cd54d29779b7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SessionExample.java
+SPDXID: SPDXRef-e3a47e09-a1b6-477d-a49f-487d6229a2d6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async0$1.class
+SPDXID: SPDXRef-22ab7e62-43f8-4d96-982d-c4108e6226eb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async0.class
+SPDXID: SPDXRef-634a0f25-4641-42b2-a146-1c34829af616
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async0.java
+SPDXID: SPDXRef-22ed5b8c-9d60-4479-9257-30eff25fe6ca
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async1$1.class
+SPDXID: SPDXRef-6e3a3ef4-9f21-4dc5-9047-6e21ec7e404a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async1.class
+SPDXID: SPDXRef-0d3d9f28-cbf5-48d5-8233-4f8c19027e8f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async1.java
+SPDXID: SPDXRef-3590d045-edf5-4157-8f94-e0b03b6b9b2d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async2$1.class
+SPDXID: SPDXRef-60ee04d1-2c5d-4a23-b765-6b3fa7c3c8ee
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async2.class
+SPDXID: SPDXRef-cfa259c2-cc5e-46ba-8f2c-7f802d336400
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async2.java
+SPDXID: SPDXRef-e794bc05-d29f-4c3c-a7e8-3754e31bcda7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async3.class
+SPDXID: SPDXRef-0d1d692e-c8ec-4ab9-ab97-6ce66e15a149
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Async3.java
+SPDXID: SPDXRef-3d310e13-5ce1-4c69-896a-65fb99d4170e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: AsyncStockContextListener.class
+SPDXID: SPDXRef-0ae7e749-aaf1-47b3-b245-d4d57cd8f950
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: AsyncStockContextListener.java
+SPDXID: SPDXRef-b5a2193f-30e5-408a-8c91-9370752fd6aa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: AsyncStockServlet.class
+SPDXID: SPDXRef-e76a54c6-8651-467f-aeb6-3e0fd00c5f87
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: AsyncStockServlet.java
+SPDXID: SPDXRef-4b7dbe45-d4e2-4943-b047-804c4a9abec4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Stockticker$Stock.class
+SPDXID: SPDXRef-846e475c-dd4a-40dd-952d-86681dc739d0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Stockticker$TickListener.class
+SPDXID: SPDXRef-29479d8c-bb2a-4ff1-8168-18e98c018a65
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Stockticker.class
+SPDXID: SPDXRef-2425bca1-cc96-4b8e-b2e5-c999e368feb7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Stockticker.java
+SPDXID: SPDXRef-b63c83c3-b4c2-4282-b1c8-c4ac4dc8be11
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Entries.class
+SPDXID: SPDXRef-5e9d3403-832b-4472-ae93-3dc44fc822ea
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Entries.java
+SPDXID: SPDXRef-61ee8e9f-42e3-4048-8dec-1d76aa51be50
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Entry.class
+SPDXID: SPDXRef-40cc7fe9-2cf0-4356-becb-bdd12669f4be
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Entry.java
+SPDXID: SPDXRef-4aab7794-0fcd-4f03-99c8-01d7b7c3fb1b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: JspCalendar.class
+SPDXID: SPDXRef-74a6dc91-9ddf-404e-b624-44f4c83f1987
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: JspCalendar.java
+SPDXID: SPDXRef-0b65925a-3400-4ad5-8909-59d4297c04f4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: TableBean.class
+SPDXID: SPDXRef-e6535105-7ffc-4024-98cc-0fcdc823c9aa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: TableBean.java
+SPDXID: SPDXRef-7414b538-124e-4796-aed3-28b168c05e33
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CheckTest.class
+SPDXID: SPDXRef-20fd4e44-a2b0-4f1b-af30-9f997833792d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CheckTest.java
+SPDXID: SPDXRef-4e173e5d-1b06-4d5d-8839-3342b5066f15
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ColorGameBean.class
+SPDXID: SPDXRef-de3caa8a-b2cf-4c7f-867d-9332abbecad4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ColorGameBean.java
+SPDXID: SPDXRef-39453324-fbdc-4031-a791-def9082423c6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CompressionFilter.class
+SPDXID: SPDXRef-e85855fe-5b5a-4a2e-9535-d588dc9e5a2d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CompressionFilter.java
+SPDXID: SPDXRef-af65d70c-6192-4fc3-a279-bd93c00fd7a5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CompressionFilterTestServlet.class
+SPDXID: SPDXRef-e1d81c87-0986-4516-aaad-c671ed96eb89
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CompressionFilterTestServlet.java
+SPDXID: SPDXRef-0930b18d-5450-41c8-ae3b-23f3a7e657f2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CompressionResponseStream.class
+SPDXID: SPDXRef-1cdae49d-77ca-4072-a06f-413f0d354fd4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CompressionResponseStream.java
+SPDXID: SPDXRef-6ac350d6-a055-4564-846d-33ded79cd351
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CompressionServletResponseWrapper.class
+SPDXID: SPDXRef-7f1f538f-075f-4b85-864c-f8aac1388a76
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CompressionServletResponseWrapper.java
+SPDXID: SPDXRef-252e12ab-6a94-4eac-bbcc-20dd56c27eb0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: JspCalendar.class
+SPDXID: SPDXRef-d3c47123-bba9-43fd-93fd-bdb361b9fb7f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: JspCalendar.java
+SPDXID: SPDXRef-f1d82a7e-a9d3-4110-a221-23d88e17d7d9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Smart.class
+SPDXID: SPDXRef-6e253a53-e653-45ae-b221-8d518a70e7c3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Smart.java
+SPDXID: SPDXRef-9f1dcf70-d4eb-4720-9fc0-4af81a579b7c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ExampleTagBase.class
+SPDXID: SPDXRef-48245781-a9dd-4acf-ba84-01484ceb2199
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ExampleTagBase.java
+SPDXID: SPDXRef-a7c434f3-6485-4ff9-b876-1852e2bec4f7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FooTag.class
+SPDXID: SPDXRef-ca07796b-21ed-4223-aeef-4ad50d4d877d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FooTag.java
+SPDXID: SPDXRef-8e43ed16-b58f-4d0b-a271-7bcc5a29b5f8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FooTagExtraInfo.class
+SPDXID: SPDXRef-b2cee98b-3f76-49db-909b-6aa2d8565bff
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FooTagExtraInfo.java
+SPDXID: SPDXRef-4efdec03-f199-4c0e-90b7-25ca25d925e9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LogTag.class
+SPDXID: SPDXRef-51913733-d2e9-4cee-b12e-68b6ca5f0a8f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: LogTag.java
+SPDXID: SPDXRef-098c0356-dd58-458b-85c8-4516885a5780
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ValuesTag.class
+SPDXID: SPDXRef-1de51f87-c370-4f77-b197-07523e659b1c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ValuesTag.java
+SPDXID: SPDXRef-ff255fea-b8f4-47be-8d8a-a3796c814c61
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ExampleFilter.class
+SPDXID: SPDXRef-af4470f9-5ba1-40eb-ac2e-f9751f8df60e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ExampleFilter.java
+SPDXID: SPDXRef-a1fb5c01-7337-420d-8d85-a7c9f9fcb661
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SimpleImagePush.class
+SPDXID: SPDXRef-8583eaf7-6a05-4085-a69e-c75ed999b581
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SimpleImagePush.java
+SPDXID: SPDXRef-7b70a024-e4e2-4f47-8601-f8549f95cea2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: BookBean.class
+SPDXID: SPDXRef-f960cd05-5c42-41ca-a185-ce06ae1ddf38
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: BookBean.java
+SPDXID: SPDXRef-f422908e-8c53-4c3b-b54b-b7673f73a2e5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FooBean.class
+SPDXID: SPDXRef-fdb3f76f-8139-4fa6-b188-9bee30fc2663
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FooBean.java
+SPDXID: SPDXRef-6bcbe311-ecae-4418-9470-9fe133f191be
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ValuesBean.class
+SPDXID: SPDXRef-3c3795d0-6c2c-4d56-849a-bac2ef1367df
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ValuesBean.java
+SPDXID: SPDXRef-767b1b2e-b9da-4bd6-85bb-b35f2b593c33
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Functions.class
+SPDXID: SPDXRef-3ad7dd85-159f-488d-ab9c-cced0794aef4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Functions.java
+SPDXID: SPDXRef-2091446d-a04e-4bd0-bc76-f4fd965cf8df
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAttributesTag.class
+SPDXID: SPDXRef-38d0883e-c5c5-4df3-b83b-c58b22cffe52
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAttributesTag.java
+SPDXID: SPDXRef-cf508727-970f-4c80-b1a9-fa7a39f42ee3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FindBookSimpleTag.class
+SPDXID: SPDXRef-f108a9cc-9a46-4645-bc64-bfbbd1b22915
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FindBookSimpleTag.java
+SPDXID: SPDXRef-d3d1e07c-3f56-43d2-a2c3-2d17fd50c305
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: HelloWorldSimpleTag.class
+SPDXID: SPDXRef-f823b339-0953-4b38-af71-104d6801631f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: HelloWorldSimpleTag.java
+SPDXID: SPDXRef-5b9955de-4f9f-448a-b3fd-bbfaa447ba11
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RepeatSimpleTag.class
+SPDXID: SPDXRef-610c6636-3b25-4b04-800d-a58ff85abccf
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RepeatSimpleTag.java
+SPDXID: SPDXRef-ab5e4db8-15f8-49ec-89a8-9e0739d7c312
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ShuffleSimpleTag.class
+SPDXID: SPDXRef-822edd88-4137-4847-a13b-e181c73d03d3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ShuffleSimpleTag.java
+SPDXID: SPDXRef-54d69c7d-0990-4843-bbad-8ee4052888ff
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: TileSimpleTag.class
+SPDXID: SPDXRef-a6f13fec-bdd5-4e54-ab5f-b146bd98aba5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: TileSimpleTag.java
+SPDXID: SPDXRef-4757a2e1-6773-4fbd-a389-b7f35447b3dd
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ContextListener.class
+SPDXID: SPDXRef-87cd6188-6b76-45a9-9418-f75203f92448
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ContextListener.java
+SPDXID: SPDXRef-b4d076c6-d33f-438c-be54-24e2bf7f7103
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SessionListener.class
+SPDXID: SPDXRef-43686b2b-28d6-4f7c-9cca-56ba97084547
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SessionListener.java
+SPDXID: SPDXRef-097410ea-df29-4639-bf97-7ffee401852a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ByteCounter$1.class
+SPDXID: SPDXRef-5ec792b3-421e-45c5-adb1-5e4477019551
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ByteCounter$CounterListener.class
+SPDXID: SPDXRef-ce427b01-ec5d-4f0b-83b3-186deefe0021
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ByteCounter.class
+SPDXID: SPDXRef-0cf641c9-9db9-41e7-8b2e-8e4f7e84c92a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ByteCounter.java
+SPDXID: SPDXRef-42d2f9f4-77b1-4de4-a947-ce46fbeda617
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: NumberWriter$1.class
+SPDXID: SPDXRef-aba71964-6add-48ff-b768-82e3a6c79279
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: NumberWriter$NumberWriterListener.class
+SPDXID: SPDXRef-1539f2d0-fb87-4f74-8b33-e1b5c808931f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: NumberWriter.class
+SPDXID: SPDXRef-dcbb5605-80c0-41d0-a589-d3c4e1010a1f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: NumberWriter.java
+SPDXID: SPDXRef-7c677a2a-9a78-462d-8f44-91e7e8980a87
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: NumberGuessBean.class
+SPDXID: SPDXRef-ee424131-e18f-4c15-a168-f82d86342976
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: NumberGuessBean.java
+SPDXID: SPDXRef-404f0895-806a-4cbb-aa7a-f9366e10a76a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DummyCart.class
+SPDXID: SPDXRef-dd97da48-88fe-4c08-aec0-2774d2ef40a5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DummyCart.java
+SPDXID: SPDXRef-67aa75dc-a0ee-46db-b518-e6463ffbccbc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ResponseTrailers$1.class
+SPDXID: SPDXRef-a65982ac-e063-4470-80a5-ca92eea350da
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ResponseTrailers$TrailerFieldSupplier.class
+SPDXID: SPDXRef-44967f9f-7698-46c3-9382-9679949f8077
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ResponseTrailers.class
+SPDXID: SPDXRef-c6257332-04b0-4ae3-921f-501c8493d8c3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ResponseTrailers.java
+SPDXID: SPDXRef-34a48f62-3190-4c79-81d0-53c0b34a7fe6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CookieFilter.class
+SPDXID: SPDXRef-50d703c3-d6eb-4a52-919d-2530b34f078f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CookieFilter.java
+SPDXID: SPDXRef-7217a384-b072-49fc-915b-a75c6ac06547
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: HTMLFilter.class
+SPDXID: SPDXRef-37481c6a-ea76-4a09-acc3-ad11fc177087
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: HTMLFilter.java
+SPDXID: SPDXRef-bf17db2e-96d7-4bd3-9c89-e86b78a0861b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DebugValidator.class
+SPDXID: SPDXRef-06c33836-a004-4c94-90bc-713bcd06497c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DebugValidator.java
+SPDXID: SPDXRef-8c0537f4-c7c5-453d-b21c-8d84cbc55310
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ExamplesConfig.class
+SPDXID: SPDXRef-2376df94-03c1-40cd-ae46-776d67fd0406
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ExamplesConfig.java
+SPDXID: SPDXRef-2989292f-2eef-4196-a82f-ac179174ed00
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ChatAnnotation.class
+SPDXID: SPDXRef-18bd0f8d-6f16-4ff2-8d9e-fc33404c2c77
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ChatAnnotation.java
+SPDXID: SPDXRef-dc8f6ad8-4bbc-49b3-ba66-8a5db46d38fc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Client$1.class
+SPDXID: SPDXRef-7aaafef6-9f46-409b-bea3-64a3d4f8e4cb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Client.class
+SPDXID: SPDXRef-5a3ec9b6-e7dd-4174-bbf1-fd19a2bd55a0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Client.java
+SPDXID: SPDXRef-1b62b5b3-ee68-4941-bb81-fa383e34bfb0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawMessage$ParseException.class
+SPDXID: SPDXRef-41cae915-9057-4ff3-8f4a-6951bce5ee9d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawMessage.class
+SPDXID: SPDXRef-d3da89c9-96b7-457f-ae5a-ab9cc7a01cf0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawMessage.java
+SPDXID: SPDXRef-e5bcb71b-712c-42bd-8ffb-fd3e66b8a793
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawboardContextListener.class
+SPDXID: SPDXRef-bb5e99fe-ad19-425c-a64b-8c88c75cf48e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawboardContextListener.java
+SPDXID: SPDXRef-56e7b6be-86a8-45a6-8a6c-95922f393a4b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawboardEndpoint$1.class
+SPDXID: SPDXRef-98ca33e4-6bbf-41a3-a05d-7f75f86b7bd2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawboardEndpoint$2.class
+SPDXID: SPDXRef-fc445018-16fa-400e-b98b-1bf5cb3d13ac
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawboardEndpoint$3$1.class
+SPDXID: SPDXRef-5a381617-7d07-4ee7-bfc3-df1b2a0b06d3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawboardEndpoint$3.class
+SPDXID: SPDXRef-ea6f0b47-f962-46b1-8596-ac4ba9cea674
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawboardEndpoint.class
+SPDXID: SPDXRef-295abb19-0dad-4611-b28f-5f7fff941ad4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DrawboardEndpoint.java
+SPDXID: SPDXRef-3758b2a6-fbdb-4a99-a108-964a5b3609bd
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Room$1$1.class
+SPDXID: SPDXRef-5e89d96c-993a-4107-8463-fe0aa52991cc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Room$1.class
+SPDXID: SPDXRef-8df5eddf-1576-4cb4-beb8-e5861d6d27fe
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Room$2.class
+SPDXID: SPDXRef-c762d4f8-69d1-4b5f-ab08-03084600dbcc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Room$MessageType.class
+SPDXID: SPDXRef-0415a3f7-a42e-4598-985a-1c75a227bc42
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Room$Player.class
+SPDXID: SPDXRef-665d63db-191e-420b-b17f-e5d27482e749
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Room.class
+SPDXID: SPDXRef-7a54a499-0f9c-4178-afb7-e5ce41c42699
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Room.java
+SPDXID: SPDXRef-5afca1f8-8de8-4665-bb8f-dc1620e384fc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: AbstractWebsocketMessage.class
+SPDXID: SPDXRef-c27c48f7-3d16-4de0-9e03-4dcd77bd39a4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: AbstractWebsocketMessage.java
+SPDXID: SPDXRef-0fe2c311-71cc-46ab-b608-73976f0fe70d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: BinaryWebsocketMessage.class
+SPDXID: SPDXRef-34ffe4c4-4532-4cdb-8e98-882d5fb8382e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: BinaryWebsocketMessage.java
+SPDXID: SPDXRef-852cf20f-1df4-4bae-819c-cb03d0a1c098
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CloseWebsocketMessage.class
+SPDXID: SPDXRef-d83f0fe0-cb17-46a9-bf28-412acbb02dba
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CloseWebsocketMessage.java
+SPDXID: SPDXRef-aee0efc5-8032-42aa-a555-daf8a01f0f8e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: StringWebsocketMessage.class
+SPDXID: SPDXRef-2d27b311-cf6b-4b76-9c05-e6079e666a0a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: StringWebsocketMessage.java
+SPDXID: SPDXRef-ff06e0bc-f01d-420f-a9f7-20a0735ae478
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAnnotation.class
+SPDXID: SPDXRef-3aef6a88-2233-4597-9492-4d588d69e652
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAnnotation.java
+SPDXID: SPDXRef-0cf2ebba-c040-4e30-8b77-c3774d414dc3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAsyncAnnotation$1.class
+SPDXID: SPDXRef-8f861fa4-68b3-4f47-af35-953de3c93cfb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAsyncAnnotation$CompletedFuture.class
+SPDXID: SPDXRef-3e248746-8e4f-4a9d-9e01-aa43fcf6a855
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAsyncAnnotation.class
+SPDXID: SPDXRef-07daf734-c12e-4b73-b470-f5861de3f149
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAsyncAnnotation.java
+SPDXID: SPDXRef-0f585f08-95d7-41a0-b1ab-cef85538a8a0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoEndpoint$1.class
+SPDXID: SPDXRef-f11572dd-a1eb-4624-9d4e-2097eef3b11e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoEndpoint$EchoMessageHandlerBinary.class
+SPDXID: SPDXRef-f3c4a8f2-a46d-4b53-8b50-666223559879
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoEndpoint$EchoMessageHandlerText.class
+SPDXID: SPDXRef-93f3a563-e978-46a3-8eeb-cb2fd2cb404d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoEndpoint.class
+SPDXID: SPDXRef-557596c8-9840-4c2e-8b1a-8fe41b48917b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoEndpoint.java
+SPDXID: SPDXRef-f1fd35ad-e311-4a3b-9f16-79616633780f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoStreamAnnotation.class
+SPDXID: SPDXRef-92a5e934-ed35-4fe2-835e-cf2f127bdef2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoStreamAnnotation.java
+SPDXID: SPDXRef-e0eca7cd-1465-42b3-84c6-541b8910c75d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: servers.json
+SPDXID: SPDXRef-4b9f6ac1-558b-4b7c-8a59-2ace3a1fb053
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Direction.class
+SPDXID: SPDXRef-4e633279-1591-455b-bfff-87598f78ec21
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Direction.java
+SPDXID: SPDXRef-c15fa142-6034-4bd0-9708-4b4812f51e5f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Location$1.class
+SPDXID: SPDXRef-81b40334-82cd-4f2e-b9c1-9ba8a2430f0a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Location.class
+SPDXID: SPDXRef-1264b437-a006-4666-baec-67c0f8ec2843
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Location.java
+SPDXID: SPDXRef-3c4589c9-3447-48a3-a493-b4cf8e848b5b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Snake.class
+SPDXID: SPDXRef-635d45ec-f1f7-4d76-b742-3ff33f586db9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Snake.java
+SPDXID: SPDXRef-81caabf8-4261-4c92-8d82-ff3397ec276e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SnakeAnnotation.class
+SPDXID: SPDXRef-52061cd8-1931-4ed2-8006-d25a7a36a96f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SnakeAnnotation.java
+SPDXID: SPDXRef-e9a6cdc0-2bf1-4c1b-80b4-5ecf62015df8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SnakeTimer$1.class
+SPDXID: SPDXRef-eddbcd7a-7216-49ec-8986-42588a67b2cf
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SnakeTimer.class
+SPDXID: SPDXRef-22132c69-0e8c-405f-bbe9-91ffc6b441ef
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: SnakeTimer.java
+SPDXID: SPDXRef-52d19356-6239-42bd-9882-8a81a76fe593
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: debug-taglib.tld
+SPDXID: SPDXRef-3f501f01-fb16-4f34-ade7-db1c5e02b350
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: example-taglib.tld
+SPDXID: SPDXRef-15188b41-e038-4e71-a9c6-d20cd988891d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jsp2-example-taglib.tld
+SPDXID: SPDXRef-f612c239-683b-42bd-b228-781fa70077dc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: taglibs-standard-impl-1.2.5.jar
+SPDXID: SPDXRef-5c15c42b-40ec-4a33-b245-37e8608ac504
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: taglibs-standard-spec-1.2.5.jar
+SPDXID: SPDXRef-9864d886-3af4-4881-917f-edad0363fae7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: displayProducts.tag
+SPDXID: SPDXRef-e6192d3a-8244-40ed-814c-8b1ddb516cf2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: helloWorld.tag
+SPDXID: SPDXRef-32736c51-9820-4ba7-a4aa-3e0337559db4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: panel.tag
+SPDXID: SPDXRef-4d872738-9880-442e-a47a-91e672b34c25
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web.xml
+SPDXID: SPDXRef-a874f530-ecba-4ec2-8f02-97a187bf9c78
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-62a76efe-f76f-436d-ba03-9844fc66a1fb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: async1.jsp
+SPDXID: SPDXRef-87e91329-61c1-48b7-aeaa-302774e17a1a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: async1.jsp.html
+SPDXID: SPDXRef-9d01a619-4db3-44e1-821b-0ea5df23dc7b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: async3.jsp
+SPDXID: SPDXRef-36a93c6e-8dc3-4f9e-b8d8-fa5cb7fe6ca3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: async3.jsp.html
+SPDXID: SPDXRef-631f9c6e-6dc4-40c2-821c-ca0a0ade42f5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.jsp
+SPDXID: SPDXRef-6d75d36f-f22a-4973-8fd6-2e17ab5b1932
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.jsp.html
+SPDXID: SPDXRef-a4fa541f-186a-4aa9-9366-9c32305f52d8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Entries.java.html
+SPDXID: SPDXRef-c3244168-c420-4581-ac7e-a5b4dfeb72e5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Entry.java.html
+SPDXID: SPDXRef-4573d52c-3743-44e3-aafc-e2971f28ba9f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: JspCalendar.java.html
+SPDXID: SPDXRef-e58c5c2f-0f12-4fff-8d41-aac2bddffd76
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: TableBean.java.html
+SPDXID: SPDXRef-6999d8d7-2b2d-4d91-9ce2-e4f89182fab8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cal1.jsp
+SPDXID: SPDXRef-5b65ca46-59c9-49ee-ac7e-bd1ef897ddfe
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cal1.jsp.html
+SPDXID: SPDXRef-567b2385-294e-4db8-9c1b-d10e2b4c6fe0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cal2.jsp
+SPDXID: SPDXRef-c66b99ef-54c6-4aa8-b31c-12a9c2acc4a1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cal2.jsp.html
+SPDXID: SPDXRef-a6f06da8-9d7c-40f3-8ae6-6d85b1d2ae65
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: calendar.html
+SPDXID: SPDXRef-a1820b51-ed73-42ea-ab74-02d2aba76ad8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: login.html
+SPDXID: SPDXRef-ad9a3046-aa63-4b0b-bcac-75de5d49eb82
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: CheckTest.html
+SPDXID: SPDXRef-fe691a27-67f6-4c1b-9f88-1f16fe46c338
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: check.html
+SPDXID: SPDXRef-4dbdca2f-e49e-4965-bf6d-2c33f10a21f0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: checkresult.jsp
+SPDXID: SPDXRef-595f244a-c6ee-4668-a6a0-ba1593399a52
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: checkresult.jsp.html
+SPDXID: SPDXRef-ea2eb4e3-4a3d-43ca-9015-355209d49d95
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cresult.html
+SPDXID: SPDXRef-411c0647-e9ad-4b27-afd3-653685021054
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ColorGameBean.html
+SPDXID: SPDXRef-5fe45b64-4f2f-4792-93a5-4dbec691cc1e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: clr.html
+SPDXID: SPDXRef-2fec41de-a640-40bf-ad33-01b14f1a6c95
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: colors.html
+SPDXID: SPDXRef-cd18c19c-9141-457b-8f15-d0da0da41b5f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: colrs.jsp
+SPDXID: SPDXRef-49ccca12-5fab-468d-b11f-43c4253718c8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: colrs.jsp.html
+SPDXID: SPDXRef-106024ce-6b73-45f2-8779-08fa5216eff2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: date.html
+SPDXID: SPDXRef-4900132d-2d4c-4688-b890-28e00a9dbdbc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: date.jsp
+SPDXID: SPDXRef-882cffca-5ce0-4fc4-a4a5-529cf1de31d6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: date.jsp.html
+SPDXID: SPDXRef-43ee26f9-ef7e-44f8-a3d5-c806d2b59a69
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: er.html
+SPDXID: SPDXRef-dbd84e2b-6318-4c31-b1b9-f11801b42741
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: err.jsp
+SPDXID: SPDXRef-62cabd8a-c725-40f4-95bd-73a2434a3d93
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: err.jsp.html
+SPDXID: SPDXRef-0ceef1e7-c8c8-4f68-b9ac-e19c7f8898e5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: error.html
+SPDXID: SPDXRef-d94f1aab-4dec-4a64-9a6d-41a5e65f87c2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: errorpge.jsp
+SPDXID: SPDXRef-f8deccc0-bcd7-48e0-a41d-8f2cc332d583
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: errorpge.jsp.html
+SPDXID: SPDXRef-a4040a8b-2689-4f29-ac7f-84434a1c3fa1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: forward.jsp
+SPDXID: SPDXRef-b00ca781-7bc8-4676-aa8d-0825870d6d03
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: forward.jsp.html
+SPDXID: SPDXRef-345371ae-4860-4532-b6b5-8418a92eb6ab
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: fwd.html
+SPDXID: SPDXRef-164bf191-cae3-47f2-adcb-1ebbaeabb9b3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: one.jsp
+SPDXID: SPDXRef-247bb34e-0866-4a3b-9dd4-77c8f3640dc5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: one.jsp.html
+SPDXID: SPDXRef-dd6ce9bb-7d5e-481c-bb17-c540ce8ff7ab
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: two.html
+SPDXID: SPDXRef-c35e4f73-1eab-466e-9c61-b4d7c38ad195
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: code.gif
+SPDXID: SPDXRef-e42bfe05-a057-4c64-bda9-8537a894c6b5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: execute.gif
+SPDXID: SPDXRef-476ba694-9dc7-4daf-856d-3a21aed74650
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: return.gif
+SPDXID: SPDXRef-5cd3f7c9-7449-4fb4-809e-b8ad9c632b7b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foo.html
+SPDXID: SPDXRef-94f5e789-4a07-4513-96b5-aa6246505760
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foo.jsp
+SPDXID: SPDXRef-02abdb3f-8789-49f0-8054-dd12ca8d68b7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foo.jsp.html
+SPDXID: SPDXRef-3098421b-f1d7-4c2a-bc18-6dd6d1d3ab64
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: inc.html
+SPDXID: SPDXRef-38b4aaa4-f8ef-4a33-a745-a7a565c0e055
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: include.jsp
+SPDXID: SPDXRef-442722bc-7272-4d55-8aba-279402b3e759
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: include.jsp.html
+SPDXID: SPDXRef-fcbbeec8-245d-4567-b818-75650aa68af5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-f26c349b-8512-4f80-bde0-ae4b0082f0d1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Functions.java.html
+SPDXID: SPDXRef-d75d21ed-bd0f-428e-8a93-59cdea013b30
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ValuesBean.java.html
+SPDXID: SPDXRef-7830f6a9-ac51-44cc-8ddc-92501bade0bf
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ValuesTag.java.html
+SPDXID: SPDXRef-12040b49-6233-4010-a6df-6e3d5655cd8d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic-arithmetic.html
+SPDXID: SPDXRef-650f03db-a0dc-4947-96ca-915aa41838b3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic-arithmetic.jsp
+SPDXID: SPDXRef-f3f1dc2b-9161-482e-bc7f-039c016d7686
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic-arithmetic.jsp.html
+SPDXID: SPDXRef-7d1b9f7d-51f0-42fe-91b0-05c217e4d969
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic-comparisons.html
+SPDXID: SPDXRef-7393c398-4f21-4df9-acd5-28059c67c915
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic-comparisons.jsp
+SPDXID: SPDXRef-db3727ff-862d-41b6-a651-45b62a9c7518
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic-comparisons.jsp.html
+SPDXID: SPDXRef-11320231-f918-4c79-980d-a24cee3d9804
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: composite.html
+SPDXID: SPDXRef-c3e88235-e403-4f56-a5ae-fdf787bffa1d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: composite.jsp
+SPDXID: SPDXRef-29b88468-3b5f-4174-88cf-61fc9ad61756
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: composite.jsp.html
+SPDXID: SPDXRef-3439ffd7-22e8-44d8-9120-ccfc5359ab7e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: functions.html
+SPDXID: SPDXRef-95ce2039-c4fd-4bd8-9af3-8de2685b8ca1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: functions.jsp
+SPDXID: SPDXRef-e4f00489-02a0-4f9a-80ff-afcd63398d16
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: functions.jsp.html
+SPDXID: SPDXRef-c9dc7933-80cb-42b3-92be-6f3b092e0f08
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: implicit-objects.html
+SPDXID: SPDXRef-6969bbf9-b168-42bc-b5a3-af68fd864766
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: implicit-objects.jsp
+SPDXID: SPDXRef-ea3b4eb3-af8c-498a-a88e-fd9077e349e9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: implicit-objects.jsp.html
+SPDXID: SPDXRef-31b6508c-22cb-4383-b3a5-f1782632652c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FooBean.java.html
+SPDXID: SPDXRef-e91f8d07-120f-4359-806f-b1817a4990c0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: HelloWorldSimpleTag.java.html
+SPDXID: SPDXRef-639befb4-ce03-491a-97c4-5c79fdbb0042
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ShuffleSimpleTag.java.html
+SPDXID: SPDXRef-367e9a52-08f1-4535-a4f8-124657671e49
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: TileSimpleTag.java.html
+SPDXID: SPDXRef-c9ac9b3d-52b9-4c4c-b105-04589bcc9841
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jspattribute.html
+SPDXID: SPDXRef-759dd92a-28f0-497f-9198-b18981a3d7cc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jspattribute.jsp
+SPDXID: SPDXRef-a81fabee-4837-4c21-92ec-66c633ce6058
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jspattribute.jsp.html
+SPDXID: SPDXRef-0fd0fb61-db74-451e-903d-47ae763f88b3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: shuffle.html
+SPDXID: SPDXRef-ff6ded1b-7091-48fa-866d-6c5cb9aacac7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: shuffle.jsp
+SPDXID: SPDXRef-0170b36c-f83f-439d-b8b5-6c8d0d6f9647
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: shuffle.jsp.html
+SPDXID: SPDXRef-0c82f5ba-a885-4d5b-ac40-573980077186
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic.html
+SPDXID: SPDXRef-3b389c21-40ac-4475-aa90-26fdb86acf3d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic.jspx
+SPDXID: SPDXRef-0e089ec6-2f5f-4d97-a7a0-28e814dec032
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: basic.jspx.html
+SPDXID: SPDXRef-85bae8d8-bf69-4091-aa4d-54130b47a834
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: svgexample.html
+SPDXID: SPDXRef-5b4160f6-31e4-4fc6-b2d9-4551ca11c28f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: textRotate.html
+SPDXID: SPDXRef-f378fb35-a1d8-4acc-a671-bfc617aaf457
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: textRotate.jpg
+SPDXID: SPDXRef-3c69e321-1b4a-4f0b-84aa-fdadea69df0b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: textRotate.jspx
+SPDXID: SPDXRef-622e2168-f870-48e1-861a-d53d7469c196
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: textRotate.jspx.html
+SPDXID: SPDXRef-71a451bd-089f-4b73-9779-72f1e3435246
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: EchoAttributesTag.java.html
+SPDXID: SPDXRef-1a12c9ce-6dc7-4c14-a037-c7473363920f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: coda.jspf
+SPDXID: SPDXRef-166a48f8-e031-4972-8242-2a0cc1e6f496
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: coda.jspf.html
+SPDXID: SPDXRef-c7be0c40-3ee6-40b5-8627-a228f2abbefa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: config.html
+SPDXID: SPDXRef-2949ae14-433e-42c2-8329-b436f2c4926b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: config.jsp
+SPDXID: SPDXRef-814a448b-0f8e-43c0-b793-34a52ecd6103
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: config.jsp.html
+SPDXID: SPDXRef-e1229b5c-89ea-4766-b12f-62eded5925eb
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: dynamicattrs.html
+SPDXID: SPDXRef-d850abd7-a5c0-4f0b-a818-b26eea63d2d4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: dynamicattrs.jsp
+SPDXID: SPDXRef-81a20259-f894-4375-a956-65cd48dc3e61
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: dynamicattrs.jsp.html
+SPDXID: SPDXRef-19037fdf-4ca8-4da7-964f-0c877f066ee7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: prelude.jspf
+SPDXID: SPDXRef-1c373658-1864-400b-bb6d-c9ffee8fc269
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: prelude.jspf.html
+SPDXID: SPDXRef-e281bb7e-0403-4b5e-828e-5986b2ede5f4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: BookBean.java.html
+SPDXID: SPDXRef-065ebf87-250a-406a-bb4f-1105c7f37c5c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: FindBookSimpleTag.java.html
+SPDXID: SPDXRef-dd33095c-d771-413d-8911-c990e9ad03d3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: Functions.java.html
+SPDXID: SPDXRef-1ffe6142-9396-4c6e-bd39-f73949cb9c58
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: HelloWorldSimpleTag.java.html
+SPDXID: SPDXRef-f6e2158d-3bca-4036-8064-b133e5a2f86c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: RepeatSimpleTag.java.html
+SPDXID: SPDXRef-e70c1a97-3e96-4feb-99e3-b706da624192
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: book.html
+SPDXID: SPDXRef-4d7a72e5-8bed-4347-bee9-cf1d46b3987c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: book.jsp
+SPDXID: SPDXRef-f531274a-79af-488c-b295-c0d9486e47b5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: book.jsp.html
+SPDXID: SPDXRef-46e64716-eb47-4664-be6a-5702c6728900
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.html
+SPDXID: SPDXRef-9ddc90ce-9484-4a00-9a31-d802153e9aa8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.jsp
+SPDXID: SPDXRef-26f4ee3c-d565-4343-86b5-c05675e6b8e8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.jsp.html
+SPDXID: SPDXRef-74288d23-14e5-4ce9-9139-292256101fa6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: repeat.html
+SPDXID: SPDXRef-d2371fd3-0163-4188-83d3-d50cecedbf5b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: repeat.jsp
+SPDXID: SPDXRef-38bbf790-2a20-4cc5-b5a4-d976acfa1bbe
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: repeat.jsp.html
+SPDXID: SPDXRef-39be340e-2fc2-4624-bb9d-8aee8d0e16e8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: displayProducts.tag.html
+SPDXID: SPDXRef-0d58aef4-cf05-44f4-90f6-619e9da9e54d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.html
+SPDXID: SPDXRef-aca06ca7-dc25-4b51-b430-cec3afc67a2a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.jsp
+SPDXID: SPDXRef-a0e15b69-8ddf-4b8d-ade6-597a97ddb7e5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.jsp.html
+SPDXID: SPDXRef-2c3b385f-d0d3-4556-a2a6-4fcd8fa2fdd7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: helloWorld.tag.html
+SPDXID: SPDXRef-7d95beb6-fa78-478b-9f76-6b5a5bc98de4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: panel.html
+SPDXID: SPDXRef-9a31ff71-d2bd-40f4-94e7-1b3929070dce
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: panel.jsp
+SPDXID: SPDXRef-a363a4aa-56b0-4fa8-8f07-1dc29d1eeda7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: panel.jsp.html
+SPDXID: SPDXRef-4148fd96-0ef9-40b3-a277-637e69b690c2
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: panel.tag.html
+SPDXID: SPDXRef-694178c5-5221-45b9-b8dc-a725cdebdcf5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: products.html
+SPDXID: SPDXRef-efa780cc-906e-4878-ba6f-9343fdfb7299
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: products.jsp
+SPDXID: SPDXRef-c258fe0d-0d2b-4ee7-aec1-827fc2e1289e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: products.jsp.html
+SPDXID: SPDXRef-c33e8dd3-86af-4df0-bab9-f871a430d764
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: ServletToJsp.java.html
+SPDXID: SPDXRef-8a60b786-988f-49d1-9bed-69a1d0e6bd8f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.jsp
+SPDXID: SPDXRef-8cda2c70-233a-48e9-93c4-5656e99bdaf9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: hello.jsp.html
+SPDXID: SPDXRef-b340eccd-fc2c-4b52-90bb-26d9bc59b5d9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jsptoservlet.jsp
+SPDXID: SPDXRef-34130667-19a1-4b02-a977-d7692768432d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jsptoservlet.jsp.html
+SPDXID: SPDXRef-4b898a62-ff75-49b0-81f4-45fb858fce94
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: jts.html
+SPDXID: SPDXRef-3c61998f-a77c-4704-b982-5b7299310754
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: numguess.html
+SPDXID: SPDXRef-5096b22f-2fdc-48e4-b469-652f3bfd4a41
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: numguess.jsp
+SPDXID: SPDXRef-0cd641d1-f4a3-4e53-9235-6e946d2be7c4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: numguess.jsp.html
+SPDXID: SPDXRef-ec1c7f85-9be4-433a-83fd-e6e2b17b3d8f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: error.jsp
+SPDXID: SPDXRef-2df832bb-2570-4e00-879f-f4fe2b6534da
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: error.jsp.html
+SPDXID: SPDXRef-a6fcae1f-e9f6-4c01-8563-1c5ff84bfdb8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.jsp
+SPDXID: SPDXRef-24de6586-f598-4750-951b-040ca59eb4a3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.jsp.html
+SPDXID: SPDXRef-10a45cd9-b392-45df-9cb6-cbd590ff4d84
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: login.jsp
+SPDXID: SPDXRef-c135dc46-9066-4aeb-8228-6524f6d2135f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: login.jsp.html
+SPDXID: SPDXRef-defae3de-34ca-4934-9702-b3a387a54838
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: DummyCart.html
+SPDXID: SPDXRef-8c0083da-3ad5-459b-b4b2-72318b432001
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: carts.html
+SPDXID: SPDXRef-b97e960d-7e1d-449f-90eb-8ffa43970757
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: carts.jsp
+SPDXID: SPDXRef-32bdf345-4018-405e-a133-828fb60dee61
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: carts.jsp.html
+SPDXID: SPDXRef-915a874d-c24b-4e2c-b1d2-4787d603cea8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: crt.html
+SPDXID: SPDXRef-70590488-cdd9-40cc-9bce-027b9bfbc65c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foo.html
+SPDXID: SPDXRef-41348ee6-ccf2-4b10-bb2f-78ae9fb5a149
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foo.jsp
+SPDXID: SPDXRef-e6df7b73-7361-41f2-9805-0b81cbcb77e0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foo.jsp.html
+SPDXID: SPDXRef-22e20b50-e04d-40e6-9e52-0cd342567fee
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: snoop.html
+SPDXID: SPDXRef-e8687407-2e5d-4f8a-bd6e-a8ad7e4fa853
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: snoop.jsp
+SPDXID: SPDXRef-724a0813-bd3b-4ddd-aa6b-b7befdc4f7c6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: snoop.jsp.html
+SPDXID: SPDXRef-75e60767-81e1-4096-a195-0998de03ca8b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: choose.html
+SPDXID: SPDXRef-b49f4054-4a82-4fbe-8194-3b6bdb3396ae
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: choose.jsp
+SPDXID: SPDXRef-03c8afec-7870-40c4-bdc4-d737b3eb093d
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: choose.jsp.html
+SPDXID: SPDXRef-e09f05a7-a305-40e7-8e43-c4d98e736e59
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foreach.html
+SPDXID: SPDXRef-b6b83327-c8b4-43b8-97bc-4c98bff88b89
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foreach.jsp
+SPDXID: SPDXRef-fc7431fb-f64e-449a-ad7e-5e3ecda19b90
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: foreach.jsp.html
+SPDXID: SPDXRef-23b82bcb-ada1-4f10-b5d9-4a51bba3778b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: howto.html
+SPDXID: SPDXRef-4be7b9c9-3811-4171-94ab-f73a2cfd3e5f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: if.html
+SPDXID: SPDXRef-01e4be2e-6ce2-4e4b-8516-1855ffcae154
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: if.jsp
+SPDXID: SPDXRef-e63b29fd-6ea0-403d-9fb0-d234878e35bd
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: if.jsp.html
+SPDXID: SPDXRef-73f618f5-4b2d-4d6d-89e8-ccb2605a3a08
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: notes.html
+SPDXID: SPDXRef-b4979c99-306e-477b-86f4-751305a20c9a
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: xml.html
+SPDXID: SPDXRef-5dd38a84-40dc-4677-986e-faabd68ccfad
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: xml.jsp
+SPDXID: SPDXRef-70d86be8-191f-4a63-867a-f4c9061d7abe
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: xml.jsp.html
+SPDXID: SPDXRef-86a6e2ef-9003-489e-afac-f409cae47694
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: cookies.html
+SPDXID: SPDXRef-22caa09d-f591-4a01-ab89-38fb53736ae9
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: helloworld.html
+SPDXID: SPDXRef-0f6d5ef3-53e8-4bd8-8e9e-ba9460d54129
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: code.gif
+SPDXID: SPDXRef-857dc7a0-535b-4525-8bfe-189aea7b0e5b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: execute.gif
+SPDXID: SPDXRef-ce9612a2-9a33-49fb-8fe9-9bc0a0b4dae5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: return.gif
+SPDXID: SPDXRef-d822810d-5ed8-4ef5-9780-a80907f02834
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.html
+SPDXID: SPDXRef-b840f5d2-4bae-4b12-9524-eebf53774007
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: bytecounter.html
+SPDXID: SPDXRef-353458ce-8d27-4f2f-b2b0-4a0657009321
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: reqheaders.html
+SPDXID: SPDXRef-0eb53bbc-9d7c-47d4-8c06-63755ff575f5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: reqinfo.html
+SPDXID: SPDXRef-a1468dd2-db8d-4624-9ddd-857bde66c731
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: reqparams.html
+SPDXID: SPDXRef-005cee4c-f798-418d-9cf6-5664fbca67a8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: sessions.html
+SPDXID: SPDXRef-008a18cf-5886-4b71-a711-36b7df98b9dd
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: chat.xhtml
+SPDXID: SPDXRef-0ffeac9c-c350-40d2-9415-9def25e1fdc8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: drawboard.xhtml
+SPDXID: SPDXRef-1c7a67f8-eb61-4664-b0cb-e274d38583b7
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: echo.xhtml
+SPDXID: SPDXRef-f3808488-46c0-4b9d-aaba-4ff1a12e6c79
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.xhtml
+SPDXID: SPDXRef-8385fce4-ed9a-4423-b4e8-665203afd649
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: snake.xhtml
+SPDXID: SPDXRef-b4de30ce-0584-49e7-af93-93361d3811b8
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: context.xml
+SPDXID: SPDXRef-3d8ea86d-99b1-4c5b-8ee9-8dc7e5cc595b
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: 401.jsp
+SPDXID: SPDXRef-3ac71cea-0569-4983-b925-54e83a6bc14e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: 403.jsp
+SPDXID: SPDXRef-4fae2d70-d0b8-46b1-be95-49844ca98197
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: 404.jsp
+SPDXID: SPDXRef-1ddc0dc6-9d59-4d0e-960f-6edf35131ac1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: manager.xml
+SPDXID: SPDXRef-65cedf6e-4323-417e-bc79-c1cccdcec769
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web.xml
+SPDXID: SPDXRef-38365580-e96d-4370-bbd5-d6c849c0b535
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: manager.css
+SPDXID: SPDXRef-f720b43d-4b18-4ac2-8021-0bb71f3a69fc
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: asf-logo.svg
+SPDXID: SPDXRef-bb522a9d-b79f-4963-97af-6c5120501779
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat.svg
+SPDXID: SPDXRef-18af59ba-0a86-4ac4-b5f4-d91f02d4d56f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.jsp
+SPDXID: SPDXRef-16ff5470-17c5-4728-98e7-8f709608a532
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: context.xml
+SPDXID: SPDXRef-57b557c8-e816-4200-bf17-65bb5220e6aa
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: 401.jsp
+SPDXID: SPDXRef-1aa361b0-fe74-4cb7-8867-08ba6fbadfae
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: 403.jsp
+SPDXID: SPDXRef-89673941-fa75-4d2e-9cbe-cfebdf7fd8f5
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: 404.jsp
+SPDXID: SPDXRef-e4db3f75-19e1-46c8-84d1-01d6e2eb39a1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: connectorCerts.jsp
+SPDXID: SPDXRef-0c7a67dc-8ac9-4caa-96fa-9da4bcde3532
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: connectorCiphers.jsp
+SPDXID: SPDXRef-6d23636f-cc24-48fb-afda-020e222690b1
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: connectorTrustedCerts.jsp
+SPDXID: SPDXRef-b73d6342-a8fe-4fa6-8228-60bf2daa47f0
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: sessionDetail.jsp
+SPDXID: SPDXRef-f8f61a28-cc37-4e07-9a47-977fe7b1b52e
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: sessionsList.jsp
+SPDXID: SPDXRef-d6ce229e-5c21-4425-8b6f-4620185d7709
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: web.xml
+SPDXID: SPDXRef-af0bf1c9-7550-4052-aa17-543342318dd4
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: manager.css
+SPDXID: SPDXRef-36b2c681-e002-42c1-a2e5-af27734666f6
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: asf-logo.svg
+SPDXID: SPDXRef-3e99b469-16f8-4051-8019-ca1d1df60b1f
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: tomcat.svg
+SPDXID: SPDXRef-710f0e7d-7600-478c-b3ba-cf6902f1daf3
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: index.jsp
+SPDXID: SPDXRef-a0aa43ed-54c2-4fcd-afd8-8b890cd58765
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: status.xsd
+SPDXID: SPDXRef-24f232fa-f943-49a5-918b-339e5aa46345
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+FileName: xform.xsl
+SPDXID: SPDXRef-13e4caac-4877-407e-ba61-7b5fa804b44c
+FileContributor: Apache Foundation
+FileType: OTHER
+FileChecksum: SHA1: CE9F343C4BA371746FD7EAD9B59031AE34D8AFC4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
